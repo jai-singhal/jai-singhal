@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jai-singhal, I am currently working in Netapp India.
-<!--- - 👀 I’m interested in ... 
---->
+- 👀 I’m interested in automating the boring stuffs with Python.
 - 🌱 I’m currently learning DevOps tools
 <!--- - 💞️ I’m looking to collaborate on ...
 --->
