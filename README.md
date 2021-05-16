@@ -24,14 +24,14 @@
 
 - 🎧 I like **1422 songs accross 101 albums**. I have **144 playlists of awesome music.**
 
+<!--
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
+-->
 
 [![Jai Singhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jai-singhal&show_icons=true&theme=onedark)](https://github.com/jai-singhal/github-readme-stats)
 
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href='https://ko-fi.com/N4N812393' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/N4N812393' target='_blank'><img height='30' style='border:0px;height:30px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
