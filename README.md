@@ -10,7 +10,8 @@
  <img src="https://komarev.com/ghpvc/?username=jai-singhal" alt="jai-singhal views" /> </span>
  
  
-<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350">
+<!-- <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"> -->
+<img align = "right" src = "https://raw.githubusercontent.com/jai-singhal/jai-singhal/main/code.gif" width = "350">
 
 - 🔭 I’m currently working in **Netapp India**.
 
@@ -31,7 +32,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jai-singhal&show_icons=true&theme=onedark" />
 </p>
 
-<a href='https://ko-fi.com/N4N812393' target='_blank'><img height='30' style='border:0px;height:30px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/N4N812393' target='_blank'><img height='40' style='border:0px;height:30px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <!--
  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 -->
