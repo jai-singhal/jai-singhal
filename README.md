@@ -27,9 +27,9 @@
 <!--
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 -->
-
-[![Jai Singhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jai-singhal&show_icons=true&theme=onedark)](https://github.com/jai-singhal/github-readme-stats)
-
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=jai-singhal&show_icons=true&theme=onedark" />
+</p>
 
 <a href='https://ko-fi.com/N4N812393' target='_blank'><img height='30' style='border:0px;height:30px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <!--
