@@ -32,6 +32,7 @@
 
 
 <a href='https://ko-fi.com/N4N812393' target='_blank'><img height='30' style='border:0px;height:30px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<!--
  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
+-->
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
