@@ -18,7 +18,7 @@
 
 - 🧠 I am currently learning **Devops tools**.
 
-- 📫 Reach me at [https://jai-singhal@github.io](https://jai-singhal@github.io).
+- 📫 Reach me at [https://jai-singhal.github.io](https://jai-singhal.github.io).
 
 - ⚡ Fun fact: **I love Object oriented programming paradigm, automating boring stuffs with Python and dogs** 🐕
 
