@@ -19,7 +19,9 @@
 
 - 🧠 I am currently learning **Devops tools**.
 
-- 📫 Reach me at [https://jai-singhal.github.io](https://jai-singhal.github.io).
+- 📫 Checkout my Terminal web resume **[https://jai-singhal.github.io](https://jai-singhal.github.io)**.
+
+- ✍️ Author and Mainatiner at **[DjangoPY](https://djangopy.org)**.
 
 - ⚡ Fun fact: **I love Object oriented programming paradigm, automating boring stuffs with Python and dogs** 🐕
 
