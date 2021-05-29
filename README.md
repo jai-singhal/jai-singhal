@@ -3,7 +3,7 @@
 -->
 <h1 align="center">नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/jai-singhal/jai-singhal/main/emojipng.com-461836.png" width="40px" />, I'm Jai</h1>
 
-<h3 align="center">A passionate developer from India</h3>
+<!-- <h3 align="center">A passionate developer from India</h3> -->
 
 <span align="left">
   
