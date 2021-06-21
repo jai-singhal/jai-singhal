@@ -27,9 +27,9 @@
 
 - ✍️ Author and Mainatiner at **[DjangoPY](https://djangopy.org)**.
 
-- ⚡ Fun fact: **I love Object oriented programming paradigm, automating boring stuffs with Python and dogs** 🐕
+- ⚡ Fun fact: **I love Object oriented programming paradigm, automating boring stuffs with Python and dogs** 🐕 ** and I love to play flute **
 
-- 🎧 I like **1422 songs accross 101 albums**. I have **144 playlists of awesome music.**
+- 🎧 I like **1422 songs accross 101 albums**. I have **144 playlists of awesome music. **
 
 <!--
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
