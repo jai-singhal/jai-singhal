@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact: **I love Object oriented programming paradigm, automating boring stuffs with Python**. 
 
-- Love to play **flute**.
+- 🎵 I love to play **flute**.
 
 - 🎧 I like **1422 songs accross 101 albums**. I have **144 playlists of awesome music.**
 
