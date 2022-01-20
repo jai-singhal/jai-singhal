@@ -1,7 +1,7 @@
 <!--
 <h1 align="center">नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jai</h1>
 -->
-<h1 align="center">नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/jai-singhal/jai-singhal/main/emojipng.com-461836.png" width="40px" />, I'm Jai</h1>
+<h1 align="center">नमस्ते (Namaste) <a href = "https://jai-singhal.github.io" target="_blank"><img src="https://raw.githubusercontent.com/jai-singhal/jai-singhal/main/emojipng.com-461836.png" width="40px" />, I'm Jai</h1>
 
 <!-- <h3 align="center">A passionate developer from India</h3> -->
 
@@ -19,17 +19,11 @@
 
 - 🔭 I’m currently working in **Netapp India**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/jai-singhal](https://github.com/jai-singhal)
-
-- 🧠 I am currently learning **Devops tools**.
-
-- 📫 Checkout my Terminal web resume **[https://jai-singhal.github.io](https://jai-singhal.github.io)**.
+- 🧠 I am currently learning everything.
 
 - ✍️ Author and Mainatiner at **[DjangoPY](https://djangopy.org)**.
 
-- ⚡ Fun fact: **I love Object oriented programming paradigm, automating boring stuffs with Python**. 
-
-- 🎵 I love to play **flute**.
+- ⚡ Fun fact: **I love travelling, playing flute.**. 
 
 - 🎧 I like **1422 songs accross 101 albums**. I have **144 playlists of awesome music.**
 
