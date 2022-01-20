@@ -1,7 +1,7 @@
 <!--
 <h1 align="center">नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jai</h1>
 -->
-<h1 align="center">नमस्ते (Namaste) <a href = "https://jai-singhal.github.io" target="_blank"><img src="https://raw.githubusercontent.com/jai-singhal/jai-singhal/main/emojipng.com-461836.png" width="40px" />, I'm Jai</h1>
+<h1 align="center">नमस्ते (Namaste) , I'm <a href = "https://jai-singhal.github.io" target="_blank"><img src="https://raw.githubusercontent.com/jai-singhal/jai-singhal/main/emojipng.com-461836.png" width="40px" />Jai</h1>
 
 <!-- <h3 align="center">A passionate developer from India</h3> -->
 
