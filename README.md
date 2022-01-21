@@ -23,7 +23,7 @@
 
 - ✍️ Author and Mainatiner at **[DjangoPY](https://djangopy.org)**.
 
-- ⚡ Fun fact: **I love travelling, playing flute.**. 
+- ⚡ Fun fact: **I love travelling, playing flute.**
 
 - 🎧 I like **1422 songs accross 101 albums**. I have **144 playlists of awesome music.**
 
